@@ -5,6 +5,7 @@ public class test1 {
 		System.out.println("±Ë¡ÿºÆ");
 		System.out.println("±Ë¡ÿºÆ1");
 		System.out.println("±Ë¡ÿºÆ12");
+		System.out.println("±Ë¡ÿºÆ123");
 	}
 	
 }
